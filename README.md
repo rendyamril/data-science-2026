@@ -4,4 +4,5 @@ Data Sciece UNSIA 2026
 * NIM : 240401010288
 * Prodi : S1 PJJ Informatika
 * Kelas : IF 403
-Saya ingin mengambil konsentrasi Data Sience pada semester 6 nanti
+
+* Saya ingin mengambil konsentrasi Data Sience pada semester 6 nanti
