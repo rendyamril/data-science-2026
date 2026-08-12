@@ -20,6 +20,11 @@ List pertemuan dan Link Github<br>
 * Pertemuan 5 (Visualisasi Data) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan5_MohammadRendyAmril_240401010288.ipynb
 * Pertemuan 6 (Persiapan Data) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan6_MohammadRendyAmril_240401010288.ipynb
 * Pertemuan 7 (Pengantar Machine Learning: Regresi Linear) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan7_MohammadRendyAmril_240401010288.ipynb
+* Pertemuan 9 (Algoritma Klasifikasi - Bagian 1) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan9_MohammadRendyAmril_240401010288.ipynb
+* Pertemuan 10 (Algoritma Klasifikasi - Bagian 2) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan10_MohammadRendyAmril_24040101028.ipynb
+* Pertemuan 11 (Unsupervised Learning - Clustering) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan11_MohammadRendyAmril_24040101028.ipynb
+* Pertemuan 12 (Asosiasi Data & Sistem Rekomendasi Dasar) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan12_MohammadRendyAmril_24040101028.ipynb 
+* Pertemuan 13 (Pengantar Deep Learning & NLP Dasar) Link : https://github.com/rendyamril/data-science-2026/blob/main/Pertemuan13_MohammadRendyAmril_24040101028.ipynb
 ---
 Tools / Library <br>
 * Phyton
@@ -36,9 +41,5 @@ Cara menjalankan Notebook<br>
 * Pastikan koneksi internet aktif untuk mengakses dataset online.
 ---
 Kesimpulan<br>
-Secara keseluruhan, materi dari modul 1 hingga 7 membahas perjalanan dari konsep yang paling dasar hingga saya siap bikin model prediksi awal. Intinya, ini rangkuman hal-hal telah saya dipelajari:<br>  
-* Fundamental & Tools: Kenalan dengan dunia Data Science, alur kerja proyek pakai CRISP-DM, dan setup tools wajib kayak Python, Google Colab, serta platform Github.
-* Pengolahan Data: Saya mulai ngulik kode pakai NumPy dan Pandas buat manipulasi tabel. Setelah itu, saya mempelajari cara bersih-bersih data yang kotor (data cleaning), mulai dari mengurus missing values sampai membuang outlier.
-* Analisis & Visualisasi: Biar datanya lebih gampang dipahami, saya dibekalin ilmu statistik deskriptif dan membuat grafik-grafik menggunakan matplotlib dan seaborn, lengkap dengan teknik storytelling datanya.
-* Machine Learning: Sebagai penutup, saya mempelajari cara menyiapkan data (encoding dan scaling) buat dimasukin ke algoritma machine learning, khususnya membahas regresi linear beserta cara evaluasi performanya.
+Perjalanan belajar Data Science dari Pertemuan 1 hingga 13 memberikan pemahaman komprehensif mengenai alur kerja pengolahan data modern secara sistematis. Pembelajaran diawali dari fondasi dasar, seperti pengenalan pemutakhiran perangkat Python, pengelolaan struktur data, serta pemahaman metodologi kerja CRISP-DM sebagai acuan proyek data.  Selanjutnya, alur berfokus pada tahap penting data wrangling, meliputi pembersihan missing values dan outlier, eksplorasi analisis statistik, hingga visualisasi data yang komunikatif. Tahap persiapan data kemudian ditingkatkan melalui encoding, scaling, serta train-test split guna memastikan data siap digunakan tanpa memicu data leakage.  Memasuki tahap pemodelan, materi mencakup algoritma Supervised Learning untuk menyelesaikan kasus regresi dan klasifikasi (seperti Regresi Linear, Logistic Regression, Decision Tree, hingga Random Forest) lengkap dengan evaluasi metriknya. Tak hanya itu, materi Unsupervised Learning juga dipelajari untuk menemukan pola tersembunyi melalui K-Means, Hierarchical Clustering, dan Market Basket Analysis.  Rangkaian pembelajaran ini ditutup secara solid dengan pengenalan topik Deep Learning (Artificial Neural Network) dan Natural Language Processing (TF-IDF). Keseluruhan proses ini membekali kemampuan dalam mengubah data mentah menjadi prediksi serta wawasan yang bernilai. 
 ---
